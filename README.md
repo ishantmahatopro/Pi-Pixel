@@ -14,6 +14,10 @@ PI-Pixel is my Raspberry Pi Zero 2 W camera build. It is built like a tiny Linux
 ### Onshape [Link](https://cad.onshape.com/documents/13b8fbce3765921378175305/w/f4802430950fd62b1acb4392/e/c97a4828b4a17766dba064f5?renderMode=0&uiState=6a3de6eaf3a8255fb230ea98)
 ---
 
+## Wiring
+
+![Wiring](https://stasis.hackclub-assets.com/images/1782026707073-v44ber.png)
+
 ## Gallery
 
 ![Main body](img/Main%20Body.png)
